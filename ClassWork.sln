@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ClassWork", "ClassWork\ClassWork.vcxproj", "{9E4F7AE1-3923-40B2-803F-C3A681C2B34E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AdvancedTemplates.cpp", "AdvancedTemplates.cpp\AdvancedTemplates.cpp.vcxproj", "{9B79F8BC-267B-485F-8F2B-8E62ECCF2F4E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{9E4F7AE1-3923-40B2-803F-C3A681C2B34E}.Release|x64.Build.0 = Release|x64
 		{9E4F7AE1-3923-40B2-803F-C3A681C2B34E}.Release|x86.ActiveCfg = Release|Win32
 		{9E4F7AE1-3923-40B2-803F-C3A681C2B34E}.Release|x86.Build.0 = Release|Win32
+		{9B79F8BC-267B-485F-8F2B-8E62ECCF2F4E}.Debug|x64.ActiveCfg = Debug|x64
+		{9B79F8BC-267B-485F-8F2B-8E62ECCF2F4E}.Debug|x64.Build.0 = Debug|x64
+		{9B79F8BC-267B-485F-8F2B-8E62ECCF2F4E}.Debug|x86.ActiveCfg = Debug|Win32
+		{9B79F8BC-267B-485F-8F2B-8E62ECCF2F4E}.Debug|x86.Build.0 = Debug|Win32
+		{9B79F8BC-267B-485F-8F2B-8E62ECCF2F4E}.Release|x64.ActiveCfg = Release|x64
+		{9B79F8BC-267B-485F-8F2B-8E62ECCF2F4E}.Release|x64.Build.0 = Release|x64
+		{9B79F8BC-267B-485F-8F2B-8E62ECCF2F4E}.Release|x86.ActiveCfg = Release|Win32
+		{9B79F8BC-267B-485F-8F2B-8E62ECCF2F4E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
